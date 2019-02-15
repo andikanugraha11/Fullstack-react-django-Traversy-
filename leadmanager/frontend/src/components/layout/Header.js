@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
+// import {withAlert} from 'react-alert';
 
 export class Header extends Component {
+
   render() {
     return (
 
